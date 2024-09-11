@@ -8,6 +8,8 @@
 - **Responsive Design**: The interface is designed to work across different screen sizes and devices.
 - **Movie Dropdown**: Users can choose from a variety of movies with corresponding prices.
 
+  ![image](https://github.com/user-attachments/assets/e9b7731d-41a4-4f55-a993-3b78f4a6f770)
+
 ## Technologies Used
 - **HTML**: Structure of the web application.
 - **CSS**: Styling for a modern and responsive design.
